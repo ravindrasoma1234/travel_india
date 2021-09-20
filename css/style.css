@@ -299,9 +299,11 @@ h1, h2, h3, h4, h5{
 }
 .social-media-link i{
     margin: 2rem;
+    background-color: 'white';
 }
 .social-media-link a{
     text-decoration: none;
+    background-color: 'white';
 }
 
 
